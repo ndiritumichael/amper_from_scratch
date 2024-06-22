@@ -1,0 +1,7 @@
+product: jvm/app
+
+settings: 
+    kotlin:
+        progressiveMode: true
+dependencies:
+    - org.jetbrains.kotlinx:kotlinx-datetime:0.5.0
